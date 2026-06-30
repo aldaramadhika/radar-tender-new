@@ -1,0 +1,9 @@
+{
+  "name": "radar-tender",
+  "version": "0.1.0",
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
